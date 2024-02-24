@@ -1,0 +1,1 @@
+whisper ../data/Audio/output.wav --model medium

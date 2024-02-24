@@ -1,0 +1,4 @@
+openai-whisper
+fuzzywuzzy
+pyaudio
+pvrecorder
